@@ -1,0 +1,95 @@
+.logo img {
+  width: 100px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.simply {
+  text-align: center;
+  font-size: 7px;
+  border-top: 1px rgb(255, 240, 119) solid;
+  padding-top: 6px;
+  padding-bottom: 6px;
+  background-color: rgba(255, 239, 119, 0.164);
+  color: rgb(0, 77, 76);
+}
+
+h3 {
+  text-align: center;
+}
+
+div {
+  width: 500px;
+  margin: 0 auto;
+}
+div p {
+  font-size: 12px;
+}
+
+div img {
+  width: 500px;
+  border-radius: 10px;
+}
+
+.caption {
+  text-align: center;
+  font-weight: 100;
+}
+
+.featured {
+  border-left: 0.5px solid rgb(255, 240, 119);
+  padding-left: 10px;
+  font-size: 10px;
+}
+
+.featured span {
+  color: orange;
+}
+
+a {
+  color: rgb(16, 119, 119);
+}
+
+.ingredients {
+  width: 500px;
+  margin: 0 auto;
+}
+
+.ingredients h4 {
+  border-bottom: 1px solid lightcyan;
+  padding-bottom: 10px;
+}
+
+.focaccia {
+  font-size: 13px;
+  text-align: left;
+  font-weight: bold;
+}
+
+ul {
+  font-size: 13px;
+  padding-left: 28px;
+  line-height: 20px;
+}
+
+.topping {
+  font-size: 13px;
+  text-align: left;
+  font-weight: bold;
+}
+
+ol {
+  font-size: 13px;
+  padding-left: 28px;
+}
+
+ol li {
+  font-weight: bold;
+}
+
+footer {
+  width: 500px;
+  margin: 0 auto;
+  font-size: 10px;
+}
